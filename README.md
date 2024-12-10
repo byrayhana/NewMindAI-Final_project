@@ -1,7 +1,3 @@
-Here's a detailed **README.md** file for the two projects you described:
-
----
-
 # **Projects Overview: Emotion Analysis and Turkish News Classification**
 
 This repository contains two Natural Language Processing (NLP) projects focusing on text classification, sentiment analysis, and text summarization. These projects showcase advanced preprocessing, model implementation, and result generation using cutting-edge technologies.
