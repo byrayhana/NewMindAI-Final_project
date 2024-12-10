@@ -70,13 +70,12 @@ This project deals with a large Turkish news dataset, focusing on classifying ne
 
 ## **Results**
 ### **Emotion Analysis**
-- Emotion Classification Accuracy: ~51%  
+- Emotion Classification Accuracy: ~51%  + GPT-2 Conclusion Genaration
 ![Screenshot 2024-12-09 122353](https://github.com/user-attachments/assets/62a00d5d-0441-4f58-9f87-b4eb96a1dfaa)
 
 
 ### **Turkish News Classification**
+- Emotion Classification Accuracy: ~91%  + Muakyese Summarization
 
-![Screenshot 2024-12-09 181954](https://github.com/user-attachments/assets/f57ebd56-e5b2-4091-83cf-75be2d61d5a4)
-
-
+![Screenshot 2024-12-09 180339](https://github.com/user-attachments/assets/98c898e6-a72b-43c9-9e46-3a29aeb0fb29)
 
